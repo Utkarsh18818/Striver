@@ -1,5 +1,5 @@
 // Linked List Element Based deletion 
-// TYPE - 2
+// TYPE - 2.
 #include <stdio.h>
 #include <stdlib.h>
 struct node{
